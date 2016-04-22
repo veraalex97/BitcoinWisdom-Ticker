@@ -1,4 +1,4 @@
-# BitcoinWisdom-Ticker
+BitcoinWisdom-Ticker
 ======================
 Keeps track of BitcoinWisdom's BTC incoming volume. 
 
